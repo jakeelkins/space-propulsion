@@ -8,3 +8,4 @@ place to put my space propulsion matlab files from AEM528
 - RL10_rocket_nozzle analyzes the RL10 rocket nozzle under different flow types
 - SRPS sizes a solid rocket propulsion system under design constraints
 - pipe heat transfer solves the compressible flow for a pipe at certain pressures, molar masses, and diameters
+- chem_equil_analysis does CEA for a given common rocket fuels given a flame temp. solves system of equations for a mixture
